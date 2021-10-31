@@ -13,7 +13,6 @@ function App() {
         <Sidebar/>
         <Home />
       </div>
-
     </div>
   );
 }
